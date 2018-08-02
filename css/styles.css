@@ -1,0 +1,11 @@
+.height{
+    height: 300px;
+}
+.head{
+    text-align: center;
+    color: red;
+}
+.answer{
+    visibility: hidden;
+    display: none;
+}
